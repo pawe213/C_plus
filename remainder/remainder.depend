@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1612618152 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\main.cpp
+	<sstream>
+	<iostream>
+	"Cat.h"
+	"Cat2.h"
+	"Person.h"
+
+1612561593 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\cat.cpp
+	<iostream>
+	"Cat.h"
+
+1612561619 c:\users\pawel\onedrive\documents\c\test_1\remainder\cat.h
+
+1612609344 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\src\cat2.cpp
+	<iostream>
+	"Cat2.h"
+
+1612609344 c:\users\pawel\onedrive\documents\c\test_1\remainder\include\cat2.h
+
+1612618602 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\src\person.cpp
+	"sstream"
+	"Person.h"
+	<iostream>
+
+1612619028 c:\users\pawel\onedrive\documents\c\test_1\remainder\include\person.h
+	<iostream>
+
