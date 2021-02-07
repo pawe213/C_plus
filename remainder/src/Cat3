@@ -1,0 +1,11 @@
+#include "Cat3."
+
+Cat3::Cat3()
+{
+    //ctor
+}
+
+Cat3::~Cat3()
+{
+    //dtor
+}

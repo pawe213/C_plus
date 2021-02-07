@@ -1,0 +1,16 @@
+#ifndef CAT3_
+#define CAT3_
+
+
+class Cat3
+{
+    public:
+        Cat3();
+        ~Cat3();
+
+    protected:
+
+    private:
+};
+
+#endif // CAT3_
