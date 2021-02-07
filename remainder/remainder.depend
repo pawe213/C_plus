@@ -1,10 +1,7 @@
 # depslib dependency file v1.0
-1612618152 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\main.cpp
+1612701102 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\main.cpp
 	<sstream>
 	<iostream>
-	"Cat.h"
-	"Cat2.h"
-	"Person.h"
 
 1612561593 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\cat.cpp
 	<iostream>
@@ -18,11 +15,70 @@
 
 1612609344 c:\users\pawel\onedrive\documents\c\test_1\remainder\include\cat2.h
 
-1612618602 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\src\person.cpp
+1612619018 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\src\person.cpp
 	"sstream"
 	"Person.h"
 	<iostream>
 
 1612619028 c:\users\pawel\onedrive\documents\c\test_1\remainder\include\person.h
+	<iostream>
+
+1612625030 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\arithmetic.cpp
+	<sstream>
+	<iostream>
+
+1612639193 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\pointers_and_arrays.cpp
+	<sstream>
+	<iostream>
+
+1612645261 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\pointer_arithmetic.cpp
+	<sstream>
+	<iostream>
+
+1612647664 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\cher_arrays.cpp
+	<sstream>
+	<iostream>
+
+1612683863 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\reverse_string.cpp
+	<sstream>
+	<iostream>
+
+1612684452 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\reference.cpp
+	<sstream>
+	<iostream>
+
+1612700774 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\copy_constructor.cpp
+	<sstream>
+	<iostream>
+
+1612695372 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\const.cpp
+	<sstream>
+	<iostream>
+
+1612722630 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\new_operator.cpp
+
+1612733744 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\allocating_memory.cpp
+	<iostream>
+
+1612734157 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\array_and_function.cpp
+	<iostream>
+
+1612734734 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\src\cat3.cpp
+	"cat3.h"
+	<iostream>
+
+1612735100 c:\users\pawel\onedrive\documents\c\test_1\remainder\include\cat3.h
+	<iostream>
+
+1612734968 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\namespaces.cpp
+	"cat3.h"
+	<iostream>
+	"Animals3.h"
+
+1612734535 source:c:\users\pawel\onedrive\documents\c\test_1\remainder\src\animals3.cpp
+	<iostream>
+	"Animals3.h"
+
+1612735156 c:\users\pawel\onedrive\documents\c\test_1\remainder\include\animals3.h
 	<iostream>
 

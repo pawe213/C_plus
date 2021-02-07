@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,7 +34,22 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Cat.h" />
+		<Unit filename="Const.cpp" />
+		<Unit filename="arithmetic.cpp" />
+		<Unit filename="cat.cpp" />
+		<Unit filename="cher_arrays.cpp" />
+		<Unit filename="copy_constructor.cpp" />
+		<Unit filename="include/Cat2.h" />
+		<Unit filename="include/Person.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="new_operator.cpp" />
+		<Unit filename="pointer_arithmetic.cpp" />
+		<Unit filename="pointers_and_arrays.cpp" />
+		<Unit filename="reference.cpp" />
+		<Unit filename="reverse_string.cpp" />
+		<Unit filename="src/Cat2.cpp" />
+		<Unit filename="src/Person.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
